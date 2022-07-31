@@ -20,7 +20,7 @@
 /************************ Example Starts Here *******l************************/
 
 // set up the 'counter' feed
-AdafruitIO_Feed *counter = io.feed("hashtag");
+AdafruitIO_Feed *counter = io.feed("Instagram");
 
 void setup() {
 
